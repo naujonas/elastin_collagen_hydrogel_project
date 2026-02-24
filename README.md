@@ -15,5 +15,12 @@ or the GitHub massaging function.
 ## Experimental Model
 Elastin-collagen hydrogels crosslinked by energetic electrons
 
+## License
+
+Unless otherwise specified:
+
+- All analysis scripts and software components are licensed under the MIT License.
+- All datasets are licensed under Creative Commons Attribution 4.0 (CC BY 4.0).
+
 ## Contact
 Jonas Naumann
